@@ -1,3 +1,6 @@
+(https://github.com/othersfollow/Drift/blob/master/images/drift-main.jpg "Logo Title Text 1")
+
+
 # Drift
 
 by <a href="www.wither.org">wither.org</a>
