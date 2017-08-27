@@ -1,4 +1,4 @@
-! [Image of Drift] (https://github.com/othersfollow/Drift/blob/master/images/drift-main.jpg)
+! [Image of Drift] (https://github.com/othersfollow/Drift/images/drift-main.jpg)
 
 
 # Drift
