@@ -1,4 +1,16 @@
+Drift
+
+Copyright (c) 2017, Matthew Winter <wither.org>, with Reserved Font Name: "Drift".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.0.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+Version 1.0 - 27 August 2017
+SIL Open Font License
+
 PREAMBLE
+
 The goals of the Open Font License (OFL) are to stimulate worldwide
 development of collaborative font projects, to support the font creation
 efforts of academic and linguistic communities, and to provide a free and
