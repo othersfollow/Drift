@@ -1,6 +1,4 @@
-! [Image of Drift](https://raw.githubusercontent.com/othersfollow/Drift/master/images/drift-main.jpg)
-
-![HI](https://raw.githubusercontent.com/othersfollow/Drift/master/images/drift-main.jpg)
+![HI](https://raw.githubusercontent.com/othersfollow/Drift/master/images/drift-thin.jpg)
 
 # Drift
 
