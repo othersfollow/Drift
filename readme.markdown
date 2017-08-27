@@ -1,4 +1,4 @@
-(https://github.com/othersfollow/Drift/blob/master/images/drift-main.jpg "Logo Title Text 1")
+! [Image of Drift] (https://github.com/othersfollow/Drift/blob/master/images/drift-main.jpg)
 
 
 # Drift
